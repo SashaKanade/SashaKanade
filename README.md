@@ -1,23 +1,23 @@
 <div align="center">
 
-# Hello, I'm Sasha Kanade
+# Hey there, I'm Sasha 👋
 
 </div>
 
 ---
 
-##  Languages and Tools
+#### 🛠️ Languages and Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <a href="https://www.python.org" target="_blank"><img src="https://skillicons.dev/icons?i=python" alt="Python" width="45" height="45"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="45" height="45"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="45" height="45"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="45" height="45"/></a>
 </p>
 
 ---
 
-##  Connect
+#### 🤝 Connect
 
 <p align="left">
   <a href="https://github.com/SashaKanade">
@@ -31,6 +31,6 @@
 
 ---
 
-##  Profile Visits
+#### 👀 Profile Visits
 
-![Profile Views](https://komarev.com/ghpvc/?username=SashaKanade&style=for-the-badge&color=brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?username=SashaKanade&style=for-the-badge&color=ff69b4)
