@@ -1,12 +1,12 @@
 <div align="center">
 
-# Hello, I'm Sasha Kanade
+# Hey there, I'm Sasha 👋
 
 </div>
 
 ---
 
-#### Languages and Tools
+#### 🛠️ Languages and Tools
 
 <p align="left">
   <a href="https://www.python.org" target="_blank"><img src="https://skillicons.dev/icons?i=python" alt="Python" width="45" height="45"/></a>
@@ -17,20 +17,19 @@
 
 ---
 
-#### Connect
+#### 🤝 Connect
 
 <p align="left">
   <a href="https://github.com/SashaKanade">
-    <img src="https://img.shields.io/badge/GitHub-SashaKanade-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  &nbsp;
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="30" alt="GitHub" />
+  </a>&nbsp;
   <a href="mailto:sasha.kanadeto@gmail.com">
-    <img src="https://img.shields.io/badge/Email-sasha.kanadeto@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" height="30" alt="Email" />
   </a>
 </p>
 
 ---
 
-#### Profile Visits
+#### 👀 Profile Visits
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SashaKanade&style=for-the-badge&color=ff69b4)
