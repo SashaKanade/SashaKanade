@@ -1,12 +1,12 @@
 <div align="center">
 
-# Hey there, I'm Sasha 👋
+# Hello, I'm Sasha Kanade
 
 </div>
 
 ---
 
-#### 🛠️ Languages and Tools
+#### Languages and Tools
 
 <p align="left">
   <a href="https://www.python.org" target="_blank"><img src="https://skillicons.dev/icons?i=python" alt="Python" width="45" height="45"/></a>
@@ -17,7 +17,7 @@
 
 ---
 
-#### 🤝 Connect
+#### Connect
 
 <p align="left">
   <a href="https://github.com/SashaKanade">
@@ -31,6 +31,6 @@
 
 ---
 
-#### 👀 Profile Visits
+#### Profile Visits
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SashaKanade&style=for-the-badge&color=ff69b4)
