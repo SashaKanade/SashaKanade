@@ -6,7 +6,7 @@
 
 ---
 
-## 🛠️ Languages and Tools
+##  Languages and Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -17,7 +17,7 @@
 
 ---
 
-## 🤝 Connect
+##  Connect
 
 <p align="left">
   <a href="https://github.com/SashaKanade">
@@ -31,6 +31,6 @@
 
 ---
 
-## 👀 Profile Visits
+##  Profile Visits
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SashaKanade&style=for-the-badge&color=brightgreen)
