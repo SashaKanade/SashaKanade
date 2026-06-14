@@ -13,6 +13,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="45" height="45"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="45" height="45"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="45" height="45"/></a>
+   <a href="https://www.pygame.org/"><img src="https://www.pygame.org/ftp/pygame-head-party.png" width="45" height="45" alt="Pygame" /></a>
 </p>
 
 ---
