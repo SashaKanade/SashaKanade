@@ -33,4 +33,4 @@
 
 #### Profile Visits
 
-![Profile Views](https://komarev.com/ghpvc/?username=SashaKanade&style=for-the-badge&color=ff69b4)
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=SashaKanade.SashaKanade)
