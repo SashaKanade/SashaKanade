@@ -33,4 +33,4 @@
 
 #### Profile Visits
 
-![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=SashaKanade.SashaKanade)
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=SashaKanade.SashaKanade&left_color=ff69b4&right_color=ff69b4)
