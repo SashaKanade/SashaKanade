@@ -27,6 +27,9 @@
   <a href="mailto:sasha.kanadeto@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" height="30" alt="Email" />
   </a>
+  <a href="https://www.linkedin.com/in/sasha-kanade-476012423/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="30" alt="Linkedin" />
+  </a>
 </p>
 
 ---
