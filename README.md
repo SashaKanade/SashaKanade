@@ -4,7 +4,7 @@
 
 </div>
 
----
+
 
 #### Languages and Tools
 
@@ -16,7 +16,7 @@
   <a href="https://www.pygame.org/"><img src="https://www.pygame.org/ftp/pygame-head-party.png" width="45" height="45" alt="Pygame" /></a>
   <a href="https://swift.org" target="_blank"><img src="https://skillicons.dev/icons?i=swift" alt="Swift" width="45" height="45"/></a>
 </p>
----
+
 
 #### Connect
 
